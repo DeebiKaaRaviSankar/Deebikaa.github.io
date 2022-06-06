@@ -1,0 +1,9 @@
+div.center{
+    margin-left: 35%;
+    margin-right: 35%;
+    display: block;
+    width: 50%;
+}
+h1,h2,h3{
+    text-align: center;
+}
